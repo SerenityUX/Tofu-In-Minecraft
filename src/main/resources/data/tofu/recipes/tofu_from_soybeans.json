@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "tofu:soybeans"
+    }
+  },
+  "result": {
+    "item": "tofu:tofu",
+    "count": 1
+  }
+}
